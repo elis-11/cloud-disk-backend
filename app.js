@@ -25,4 +25,4 @@ async function start() {
 }
 
 start();
-//  21 minuta
+//  23 minuta
