@@ -27,4 +27,4 @@ router.post('/login', async (req, res) => {
 module.exports = router;
 
 
-//  32
+//  32    npm run server
