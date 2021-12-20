@@ -27,3 +27,12 @@ async function start() {
 
 start();
 //  23 minute
+
+
+-----------mern-stack----------
+mongo-atlass------10
+index.js-------10.40
+
+mongodb+srv://<username>:<password>@cluster0.eoohx.mongodb.net/myFirstDatabase?retryWrites=true&w=majority
+        await mongoose.connect('mongodb+srv://elis2:elis@cluster0.eoohx.mongodb.net/todo?retryWrites=true&w=majority')
+

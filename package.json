@@ -1,11 +1,13 @@
 {
-  "name": "mern-stack-backend",
+  "name": "mern-todo",
   "version": "1.0.0",
-  "description": "Mern stack",
-  "main": "app.js",
+  "description": "Mern todo",
+  "type": "module",
+  "main": "index.js",
   "scripts": {
-    "start": "node app.js",
-    "server": "nodemon app.js"
+    "server": "nodemon src/index.js",
+    "client": "npm run start --prefix client",
+    "dev": "concurrently \"npm run server\" \"npm run client\""
   },
   "keywords": [
     "mern",
