@@ -1,8 +1,15 @@
 const { Router } = require("express");
 const router = Router();
 const User = require("../models/User");
+const {check, validationResult} = require("express-validator")
 
-router.post("/registration", async (req, res) => {
+router.post("/registration",
+
+[
+check('email', 'wrong email').isEmail(),
+check('password', 'wrong password').isLength({min:4})
+],
+async (req, res) => {
   try {
     const { email, password } = req.body;
 
