@@ -1,0 +1,4 @@
+{
+    "serverPort": 5000,
+    "dbUrl": "mongodb+srv://elis1:elis@cluster0.eoohx.mongodb.net/Cluster0?retryWrites=true&w=majority"
+}

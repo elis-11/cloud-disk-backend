@@ -16,5 +16,13 @@
   "bugs": {
     "url": "https://github.com/elis-11/mern-cloud-backend/issues"
   },
-  "homepage": "https://github.com/elis-11/mern-cloud-backend#readme"
+  "homepage": "https://github.com/elis-11/mern-cloud-backend#readme",
+  "dependencies": {
+    "config": "^3.3.6",
+    "express": "^4.17.2",
+    "mongoose": "^6.1.4"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.15"
+  }
 }
