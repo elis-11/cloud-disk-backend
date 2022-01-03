@@ -1,4 +1,4 @@
-# 2-created:
+## 2-created:
 - DB
 - REACT-APP
 - STRUCTURE for SERVER
@@ -14,8 +14,11 @@ const uri = config.get('dbUrl')
   "dbUrl": "mongodb+srv://ulbitv:qawsed@cloud.91g1g.mongodb.net/cloud?retryWrites=true&w=majority",
 -----------------
 mongoose.connect(uri, { useNewUrlParser: true, useUnifiedTopology: true })
-### 4-add user MODEL
+## 4:add user MODEL
 - Rest API 
 - npm i BCRYPTJS
 - nodemon (started with-'npm run dev')
 - 3:50 EXPRESS-VALIDATOR
+- not works
+## 5 JWT, AUTHORIZATION
+-
