@@ -22,3 +22,10 @@ mongoose.connect(uri, { useNewUrlParser: true, useUnifiedTopology: true })
 - not works
 ## 5 JWT, AUTHORIZATION
 -
+## killall node
+## npm run dev
+## npm start
+
+
+  "filePath": "C:\\Users\\tim\\Desktop\\mern-cloud-disk\\server\\files",
+  "staticPath": "C:\\Users\\tim\\Desktop\\mern-cloud-disk\\server\\static"
