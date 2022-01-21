@@ -29,3 +29,14 @@ mongoose.connect(uri, { useNewUrlParser: true, useUnifiedTopology: true })
 
   "filePath": "C:\\Users\\tim\\Desktop\\mern-cloud-disk\\server\\files",
   "staticPath": "C:\\Users\\tim\\Desktop\\mern-cloud-disk\\server\\static"
+--------------------
+{
+  "serverPort" : 5000,
+  "dbUrl": 
+  "mongodb+srv://elis:elis@cluster0.ldv56.mongodb.net/cloud?retryWrites=true&w=majority"
+  ,
+  "secretKey": "mern-secket-key",
+  "filePath": "C:\\Users\\tim\\Desktop\\mern-cloud-disk\\server\\files",
+  "staticPath": "C:\\Users\\tim\\Desktop\\mern-cloud-disk\\server\\static"
+  /home/elis
+}

@@ -4,6 +4,6 @@
   "mongodb+srv://elis:elis@cluster0.ldv56.mongodb.net/cloud?retryWrites=true&w=majority"
   ,
   "secretKey": "mern-secket-key",
-  "filePath": "C:\\Users\\tim\\Desktop\\mern-cloud-disk\\server\\files",
-  "staticPath": "C:\\Users\\tim\\Desktop\\mern-cloud-disk\\server\\static"
+  "filePath": "/home/cloud-disk",
+  "staticPath": "/home/cloud-disk"
 }
