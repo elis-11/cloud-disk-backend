@@ -27,3 +27,11 @@
   /home/elis
 
 ---
+
+{
+  "serverPort": 5000,
+  "dbUrl": "mongodb+srv://elis:elis@cluster0.ldv56.mongodb.net/cloud?retryWrites=true&w=majority",
+  "secretKey": "mern-secket-key",
+  "filePath": "C:/home/elis/webs/cloud/cloud-disk-server",
+  "staticPath": "C:/home/elis/webs/cloud/cloud-disk-server"
+}
